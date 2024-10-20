@@ -1,2 +1,3 @@
 # ExamDatabase
-![tables](https://github.com/user-attachments/assets/3a6d0b8c-3c82-4651-9c5d-b5b2d55d81f6)
+![tables](https://github.com/user-attachments/assets/8f76870b-e4b4-41e8-b13f-a0da5b1b90ac)
+
