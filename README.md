@@ -10,8 +10,7 @@ The project demonstrates advanced knowledge in SQL, including complex multi-tabl
 - [Technologies](#technologies)
 - [Setup and Configuration](#setup-and-configuration)
 - [Database Structure](#database-structure)
-- [Triggers and Constraints](#triggers-and-constraints)
-- [License](#license)
+- [Triggers](#triggers)
 
 ## Features
 
@@ -91,9 +90,9 @@ The following tables are used in this project:
    - `ExamID`: Foreign key referencing `Exam`.
    - `Grade`: Grade between 0 and 100.
 
-## Triggers and Constraints
+## Triggers
 
-The project includes several database triggers and constraints to ensure data integrity:
+The project includes several database triggers to ensure data integrity:
 
 1. **Delete Question if No Answers**: Automatically deletes a question if no answers are associated with it.
    
