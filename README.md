@@ -2,7 +2,7 @@
 
 This project is a **Java** client application that connects to a **PostgreSQL** database to manage an exam system. The system allows administrators, teachers, and students to interact with the database by adding and deleting questions, answers, exams, and users. Teachers can assign grades to students, and students can check their GPA through the system.
 
-The project demonstrates advanced knowledge in SQL, including complex multi-table joins, the creation and management of triggers for data integrity, and efficient database design. It also showcases strong proficiency in Java programming, including usage of JDBC for database connectivity, proper handling of SQL exceptions, and configuration management using external files like .properties for secure and flexible connection settings.
+The project demonstrates advanced knowledge in SQL, including complex multi-table joins, the creation and management of triggers for data integrity, and efficient database design. It also showcases strong proficiency in Java programming, including usage of JDBC for database connectivity, proper handling of SQL exceptions, and configuration management using external files like `.properties` for secure and flexible connection settings.
 
 ## Table of Contents
 
